@@ -31,3 +31,11 @@
 # Debug files
 *.dSYM/
 *.su
+
+# IDEA
+.idea/*
+cmake-build-debug/*
+CMakeLists.txt
+
+# Output
+shell
